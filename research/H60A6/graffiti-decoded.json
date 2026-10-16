@@ -1,0 +1,147 @@
+{
+  "name": "Graffiti",
+  "code": 19076,
+  "catalog_type": 5,
+  "category": "Natural",
+  "model": {
+    "total_len": 84,
+    "layer_size": 2,
+    "bg_color_size": 1,
+    "bg_colors": [
+      {
+        "r": 0,
+        "g": 0,
+        "b": 255
+      }
+    ],
+    "bg_brightness": 65,
+    "layers": [
+      {
+        "layer_len": 37,
+        "effect": {
+          "sub_effect_id": 1,
+          "effect": {
+            "i": 100,
+            "t0": 0,
+            "t1": 100,
+            "x": 50,
+            "w": 50,
+            "h": 2,
+            "r0": 0,
+            "r1": 0,
+            "q0": 0,
+            "q1": 0,
+            "m0": 100,
+            "m1": 100,
+            "u": 1,
+            "v": 1,
+            "color_count": 7,
+            "colors": [
+              {
+                "r": 255,
+                "g": 0,
+                "b": 0
+              },
+              {
+                "r": 255,
+                "g": 127,
+                "b": 0
+              },
+              {
+                "r": 255,
+                "g": 255,
+                "b": 0
+              },
+              {
+                "r": 0,
+                "g": 255,
+                "b": 0
+              },
+              {
+                "r": 0,
+                "g": 0,
+                "b": 255
+              },
+              {
+                "r": 0,
+                "g": 255,
+                "b": 255
+              },
+              {
+                "r": 139,
+                "g": 0,
+                "b": 255
+              }
+            ]
+          }
+        }
+      },
+      {
+        "layer_len": 37,
+        "effect": {
+          "sub_effect_id": 1,
+          "effect": {
+            "i": 100,
+            "t0": 0,
+            "t1": 50,
+            "x": 50,
+            "w": 50,
+            "h": 2,
+            "r0": 0,
+            "r1": 0,
+            "q0": 0,
+            "q1": 0,
+            "m0": 100,
+            "m1": 100,
+            "u": 1,
+            "v": 1,
+            "color_count": 7,
+            "colors": [
+              {
+                "r": 139,
+                "g": 0,
+                "b": 255
+              },
+              {
+                "r": 0,
+                "g": 255,
+                "b": 255
+              },
+              {
+                "r": 0,
+                "g": 0,
+                "b": 255
+              },
+              {
+                "r": 0,
+                "g": 255,
+                "b": 0
+              },
+              {
+                "r": 255,
+                "g": 255,
+                "b": 0
+              },
+              {
+                "r": 255,
+                "g": 127,
+                "b": 0
+              },
+              {
+                "r": 255,
+                "g": 0,
+                "b": 0
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "format": "DIY/A3",
+  "sub_effect_ids": [1, 1],
+  "value_bytes": 86,
+  "parsed_consumption": "exact",
+  "reencoded_bytes": "exact",
+  "upload_reassembly": "exact"
+}

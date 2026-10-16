@@ -1,0 +1,71 @@
+{
+  "sku": "H60A6",
+  "scenes": {
+    "Rustling leaves": {
+      "name": "Rustling leaves",
+      "code": 19155,
+      "upload": [
+        "pAAAAQsAWCD/3ZUDAAGZAAOMAHU=",
+        "pAEAAQCFAGadFwABAgMEBQYHCMU=",
+        "pAIACQoLDA0ODxAREhMUFRYXGLY=",
+        "pAMAGRobHB0eHyAhIiMkJSYnKJc=",
+        "pAQAKSorLC0uLzAxMjM0NTY3OLA=",
+        "pAUAOTo7PD0+P0BBQkNERUZHSNE=",
+        "pAYASUpLTE1OT1BRUlNUVVZXWLI=",
+        "pAcAWVpbXF1eX2BhYmNkZWZnaJM=",
+        "pAgAaWprbG1ub3BxcnN0dXZ3eLw=",
+        "pAkAeXp7fH1+f4CBgoOEAQBkATU=",
+        "pP//ECcAAAAAkw=="
+      ],
+      "activation": "MwUE00oAAAAAAAAAAAAAAAAAAKs=",
+      "wire_format": "0xa4"
+    },
+    "Aurora": {
+      "name": "Aurora",
+      "code": 19074,
+      "upload": [
+        "pAAAAQwAWCAA/wAMAAGyAAOlADc=",
+        "pAEABgAaAAAA/wIJFBUWLzAxQTU=",
+        "pAIAQkNWV1hiY2RxcnN4eXqBgpM=",
+        "pAMAgx4AAKfVAQoPEBESEzIzNHk=",
+        "pAQANTY8PT4/QFlaW1xdXl9gYbo=",
+        "pAUAdHV2dxsAAP5sAwgXGBksLTQ=",
+        "pAYALkRFRlNUVWVmZ25vcHt8ffY=",
+        "pAcAfn+AhAoAAP8ABQYfICEiI08=",
+        "pAgAJCUmHgAA/08EBxobHB0eJx8=",
+        "pAkAKCkqK0dISUpLTE1OT1BRUrk=",
+        "pAoAaGlqa2xtCgAA/9IACwwNDow=",
+        "pP//Nzg5OjsCAGQBECcAAAAAww=="
+      ],
+      "activation": "MwUEgkoAAAAAAAAAAAAAAAAAAPo=",
+      "wire_format": "0xa4"
+    },
+    "Graffiti": {
+      "name": "Graffiti",
+      "code": 19076,
+      "upload": [
+        "owABBlhUAAIBAAD/QSUAAWQAZDE=",
+        "owEyMgIAAAAAZGQBAQf/AAD/f9g=",
+        "owIA//8AAP8AAAD/AP//iwD/JfA=",
+        "owMAAWQAMjIyAgAAAABkZAEBB/I=",
+        "owSLAP8A//8AAP8A/wD//wD/f1M=",
+        "o/8A/wAAAAAAAAAAAAAAAAAAAKM="
+      ],
+      "activation": "MwUEhEoAAAAAAAAAAAAAAAAAAPw=",
+      "wire_format": "0xa3"
+    },
+    "Christmas": {
+      "name": "Christmas",
+      "code": 19093,
+      "upload": [
+        "owABBFg2AAIB/wAAFBYAATwyADk=",
+        "owEyMgMAAAAAZGQBAQL/AAAA/6M=",
+        "owIAFgABPGQAMjIDAAAAAGRkAew=",
+        "o/8BAv8AAAD/AAAAAAAAAAAAAF8="
+      ],
+      "activation": "MwUElUoAAAAAAAAAAAAAAAAAAO0=",
+      "wire_format": "0xa3"
+    }
+  },
+  "scope": "Known original catalog programs and activation codes, no custom program or unknown opcode"
+}

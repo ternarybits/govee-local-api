@@ -1,0 +1,103 @@
+{
+  "sku": "H60A6",
+  "firmware": "1.00.41",
+  "results": [
+    {
+      "phase": "rustling-positive-baseline",
+      "transport": "BLE known native program",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "wifi-graffiti-native-baseline-batch",
+      "transport": "Wi-Fi UDP4003, native program already active",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "wifi-graffiti-native-baseline-split",
+      "transport": "Wi-Fi UDP4003, native program already active",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "ble-graffiti-upload-only",
+      "transport": "BLE known native program",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "ble-graffiti-activation",
+      "transport": "BLE known activation only",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "ble-aurora-activation-without-upload",
+      "transport": "BLE known activation only",
+      "scene_code": 19074,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "ble-aurora-upload-only",
+      "transport": "BLE known native program",
+      "scene_code": 19074,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "ble-aurora-matching-activation",
+      "transport": "BLE known activation only",
+      "scene_code": 19074,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "ble-graffiti-activation-without-upload",
+      "transport": "BLE known activation only",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "wifi-raw-brightness8-native-mode",
+      "transport": "Wi-Fi UDP4003, native program already active",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "ble-identical-raw-brightness8",
+      "transport": "BLE identical raw brightness positive control",
+      "scene_code": 19076,
+      "brightness": 8,
+      "is_on": true
+    },
+    {
+      "phase": "restored-original-native-program",
+      "scene_code": 19155,
+      "brightness": 5
+    }
+  ],
+  "scope": "Known payload/code matrix with BLE references and local Wi-Fi trials; camera interpretation recorded separately.",
+  "camera_interpretation": {
+    "rustling-positive-baseline": "Uniform lime/yellow-green reference",
+    "wifi-graffiti-native-baseline-batch": "Reference appearance retained",
+    "wifi-graffiti-native-baseline-split": "Reference appearance retained",
+    "ble-graffiti-upload-only": "Prior reference retained until activation",
+    "ble-graffiti-activation": "Multicolor Graffiti program rendered",
+    "ble-aurora-activation-without-upload": "Dark despiteon5percentandrequestedscene19074readback",
+    "ble-aurora-upload-only": "Stilldark until explicitactivation",
+    "ble-aurora-matching-activation": "Aurora cyan/green with blue ring regions rendered",
+    "ble-graffiti-activation-without-upload": "Dark despiteon5percentandrequestedscene19076readback",
+    "restored-original-native-program": "Uniform referenceappearance restored before final white cleanup"
+  },
+  "context_correction": "Rawbrightness phases followed the physically dark bareGraffiti activation. Their original transport label says nativeprogramalreadyactive, but only native scene code was selected. Separate native-stage-transport repeats brightness from a full, visibly running native positive control.",
+  "limits": "No firmware memory/cache architecture inferred. Cross-format code-only recalls failed; same-format and cross-transport staged-upload controls are separate."
+}

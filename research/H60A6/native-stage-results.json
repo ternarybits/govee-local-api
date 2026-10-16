@@ -1,0 +1,172 @@
+{
+  "sku": "H60A6",
+  "firmware": "1.00.41",
+  "results": [
+    {
+      "phase": "a4-source-baseline",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-wifi-activation-only",
+      "transport": "Wi-Fi native same-format activation attempt",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-bare-ble-activation-control",
+      "transport": "BLE activation only, after preceding specified upload",
+      "scene_code": 19074,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-batch-source-reset",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-batch-wifi-upload-only",
+      "transport": "Wi-Fi staged upload attempt, same-format native source active",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-batch-ble-commit-after-wifi-upload",
+      "transport": "BLE activation only, after preceding specified upload",
+      "scene_code": 19074,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-split-source-reset",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-split-wifi-upload-only",
+      "transport": "Wi-Fi staged upload attempt, same-format native source active",
+      "scene_code": 19155,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-split-ble-commit-after-wifi-upload",
+      "transport": "BLE activation only, after preceding specified upload",
+      "scene_code": 19074,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a4-full-ble-target-positive",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19074,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-source-baseline",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-wifi-activation-only",
+      "transport": "Wi-Fi native same-format activation attempt",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-bare-ble-activation-control",
+      "transport": "BLE activation only, after preceding specified upload",
+      "scene_code": 19093,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-batch-source-reset",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-batch-wifi-upload-only",
+      "transport": "Wi-Fi staged upload attempt, same-format native source active",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-batch-ble-commit-after-wifi-upload",
+      "transport": "BLE activation only, after preceding specified upload",
+      "scene_code": 19093,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-split-source-reset",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-split-wifi-upload-only",
+      "transport": "Wi-Fi staged upload attempt, same-format native source active",
+      "scene_code": 19076,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-split-ble-commit-after-wifi-upload",
+      "transport": "BLE activation only, after preceding specified upload",
+      "scene_code": 19093,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "a3-full-ble-target-positive",
+      "transport": "BLE known source/target positive control",
+      "scene_code": 19093,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "valid-native-raw-brightness8-wifi",
+      "transport": "Wi-Fi UDP4003 exact brightness frame",
+      "scene_code": 19093,
+      "brightness": 5,
+      "is_on": true
+    },
+    {
+      "phase": "valid-native-raw-brightness8-ble",
+      "transport": "BLE exact brightness frame",
+      "scene_code": 19093,
+      "brightness": 8,
+      "is_on": true
+    }
+  ],
+  "scope": "Known same-format source/target matrix; Bluetooth is a temporary reference/commit instrument, not a permanent relay proposal; original camera interpretation separate.",
+  "camera_interpretation": {
+    "a4_source": "Rustling uniform reference visible",
+    "a4_target_positive": "Aurora cyan/green with blue ring regions visible",
+    "a3_source": "Graffiti rainbow planar pattern visible",
+    "a3_target_positive": "Christmas red/green planar pattern visible",
+    "bare_ble_target_activations": "Both formats read targetcode but physicallydark in both frames",
+    "ble_commit_after_wifi_upload": "Batch and30mssplit, bothformats, physicallydark; matches no-new-upload control",
+    "wifi_activation_only": "Sourcecodesretained and source rendering continues",
+    "raw_brightness_comparison": "Valid Christmasprogram remains visiblyrunning: WiFi8%frame leaves5; identicalBLEframe reads8; both selectedcode19093"
+  },
+  "conclusion": "No usable native WiFi staging or activation demonstrated in these paths; no universal impossibility claim. Scene code/on/brightness alone do not prove valid native program emission."
+}

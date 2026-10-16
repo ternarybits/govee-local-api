@@ -1,0 +1,28 @@
+{
+  "source": "govee-ble-local offline scene_upload_frames, B_h60a6, not generic sceneType framing",
+  "version": "1.2.1",
+  "sku": "H60A6",
+  "name": "Graffiti",
+  "code": 19076,
+  "public_and_bundled_param_match": true,
+  "dialect": "B_h60a6",
+  "comm_byte": 88,
+  "frames_hex": [
+    "a300010658540002010000ff4125000164006431",
+    "a301323202000000006464010107ff0000ff7fd8",
+    "a30200ffff0000ff000000ff00ffff8b00ff25f0",
+    "a3030001640032323202000000006464010107f2",
+    "a3048b00ff00ffff0000ff00ff00ffff00ff7f53",
+    "a3ff00ff000000000000000000000000000000a3",
+    "330504844a0000000000000000000000000000fc"
+  ],
+  "frames_base64": [
+    "owABBlhUAAIBAAD/QSUAAWQAZDE=",
+    "owEyMgIAAAAAZGQBAQf/AAD/f9g=",
+    "owIA//8AAP8AAAD/AP//iwD/JfA=",
+    "owMAAWQAMjIyAgAAAABkZAEBB/I=",
+    "owSLAP8A//8AAP8A/wD//wD/f1M=",
+    "o/8A/wAAAAAAAAAAAAAAAAAAAKM=",
+    "MwUEhEoAAAAAAAAAAAAAAAAAAPw="
+  ]
+}

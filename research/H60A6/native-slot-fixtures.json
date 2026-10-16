@@ -1,0 +1,53 @@
+{
+  "scope": "Original cached catalog programs; no custom colors or unknown commands. BLE reference controls and Wi-Fi ptReal attempts clearly labeled.",
+  "scenes": {
+    "Rustling leaves": {
+      "code": 19155,
+      "upload_frames_base64": [
+        "pAAAAQsAWCD/3ZUDAAGZAAOMAHU=",
+        "pAEAAQCFAGadFwABAgMEBQYHCMU=",
+        "pAIACQoLDA0ODxAREhMUFRYXGLY=",
+        "pAMAGRobHB0eHyAhIiMkJSYnKJc=",
+        "pAQAKSorLC0uLzAxMjM0NTY3OLA=",
+        "pAUAOTo7PD0+P0BBQkNERUZHSNE=",
+        "pAYASUpLTE1OT1BRUlNUVVZXWLI=",
+        "pAcAWVpbXF1eX2BhYmNkZWZnaJM=",
+        "pAgAaWprbG1ub3BxcnN0dXZ3eLw=",
+        "pAkAeXp7fH1+f4CBgoOEAQBkATU=",
+        "pP//ECcAAAAAkw=="
+      ],
+      "activation_base64": "MwUE00oAAAAAAAAAAAAAAAAAAKs="
+    },
+    "Graffiti": {
+      "code": 19076,
+      "upload_frames_base64": [
+        "owABBlhUAAIBAAD/QSUAAWQAZDE=",
+        "owEyMgIAAAAAZGQBAQf/AAD/f9g=",
+        "owIA//8AAP8AAAD/AP//iwD/JfA=",
+        "owMAAWQAMjIyAgAAAABkZAEBB/I=",
+        "owSLAP8A//8AAP8A/wD//wD/f1M=",
+        "o/8A/wAAAAAAAAAAAAAAAAAAAKM="
+      ],
+      "activation_base64": "MwUEhEoAAAAAAAAAAAAAAAAAAPw="
+    },
+    "Aurora": {
+      "code": 19074,
+      "upload_frames_base64": [
+        "pAAAAQwAWCAA/wAMAAGyAAOlADc=",
+        "pAEABgAaAAAA/wIJFBUWLzAxQTU=",
+        "pAIAQkNWV1hiY2RxcnN4eXqBgpM=",
+        "pAMAgx4AAKfVAQoPEBESEzIzNHk=",
+        "pAQANTY8PT4/QFlaW1xdXl9gYbo=",
+        "pAUAdHV2dxsAAP5sAwgXGBksLTQ=",
+        "pAYALkRFRlNUVWVmZ25vcHt8ffY=",
+        "pAcAfn+AhAoAAP8ABQYfICEiI08=",
+        "pAgAJCUmHgAA/08EBxobHB0eJx8=",
+        "pAkAKCkqK0dISUpLTE1OT1BRUrk=",
+        "pAoAaGlqa2xtCgAA/9IACwwNDow=",
+        "pP//Nzg5OjsCAGQBECcAAAAAww=="
+      ],
+      "activation_base64": "MwUEgkoAAAAAAAAAAAAAAAAAAPo="
+    }
+  },
+  "raw_brightness8_base64": "MwQIAAAAAAAAAAAAAAAAAAAAAD8="
+}

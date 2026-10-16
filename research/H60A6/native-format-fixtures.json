@@ -1,0 +1,34 @@
+{
+  "sku": "H60A6",
+  "scope": "Offline representative A4 and activation-only frames; execution requires separately verified transport",
+  "scenes": [
+    {
+      "name": "Aurora",
+      "code": 19074,
+      "catalog_type": 5,
+      "frames_base64": [
+        "pAAAAQwAWCAA/wAMAAGyAAOlADc=",
+        "pAEABgAaAAAA/wIJFBUWLzAxQTU=",
+        "pAIAQkNWV1hiY2RxcnN4eXqBgpM=",
+        "pAMAgx4AAKfVAQoPEBESEzIzNHk=",
+        "pAQANTY8PT4/QFlaW1xdXl9gYbo=",
+        "pAUAdHV2dxsAAP5sAwgXGBksLTQ=",
+        "pAYALkRFRlNUVWVmZ25vcHt8ffY=",
+        "pAcAfn+AhAoAAP8ABQYfICEiI08=",
+        "pAgAJCUmHgAA/08EBxobHB0eJx8=",
+        "pAkAKCkqK0dISUpLTE1OT1BRUrk=",
+        "pAoAaGlqa2xtCgAA/9IACwwNDow=",
+        "pP//Nzg5OjsCAGQBECcAAAAAww==",
+        "MwUEgkoAAAAAAAAAAAAAAAAAAPo="
+      ],
+      "source": "Cached anonymous catalog; device-specific offline library serializer"
+    },
+    {
+      "name": "White Light",
+      "code": 99,
+      "catalog_type": 0,
+      "frames_base64": ["MwUEYwAAAAAAAAAAAAAAAAAAAFE="],
+      "source": "Cached anonymous catalog; device-specific offline library serializer"
+    }
+  ]
+}

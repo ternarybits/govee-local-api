@@ -1,0 +1,583 @@
+{
+  "method": "Statistics only on original unmodified stills. Dark=maxchannel<10 in fixed lamp region; positive optical appearance also inspected visually. No original pixels exported.",
+  "rows": [
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-aurora-activation-without-upload-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-aurora-activation-without-upload-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-aurora-matching-activation-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 197.55003356933594,
+      "panel_mean_rgb": [
+        1.7757093906402588, 239.59051513671875, 230.6634979248047
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-aurora-matching-activation-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 198.06590270996094,
+      "panel_mean_rgb": [
+        1.7427335977554321, 239.7801055908203, 230.7909698486328
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-aurora-upload-only-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-aurora-upload-only-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-graffiti-activation-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 218.14866638183594,
+      "panel_mean_rgb": [
+        52.634220123291016, 231.0386199951172, 245.07183837890625
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-graffiti-activation-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 203.81114196777344,
+      "panel_mean_rgb": [
+        169.56613159179688, 213.7698211669922, 209.84976196289062
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-graffiti-activation-without-upload-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-graffiti-activation-without-upload-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-graffiti-upload-only-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.04428100585938,
+      "panel_mean_rgb": [
+        214.8762969970703, 234.26844787597656, 157.11044311523438
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-graffiti-upload-only-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.2725067138672,
+      "panel_mean_rgb": [
+        214.73048400878906, 234.61325073242188, 156.18882751464844
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-identical-raw-brightness8-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-ble-identical-raw-brightness8-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-final-white.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 215.43753051757812,
+      "panel_mean_rgb": [249.0823211669922, 248.525390625, 246.52581787109375],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-restored-original-native-program.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.24639892578125,
+      "panel_mean_rgb": [
+        215.47463989257812, 234.42916870117188, 157.87335205078125
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-rustling-positive-baseline-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.0248260498047,
+      "panel_mean_rgb": [
+        216.0934295654297, 234.2049102783203, 158.01675415039062
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-rustling-positive-baseline-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.03363037109375,
+      "panel_mean_rgb": [
+        211.30172729492188, 234.0957489013672, 155.12608337402344
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-wifi-graffiti-native-baseline-batch-a.jpg",
+      "lamp_region_max_channel": 254.0,
+      "lamp_region_mean_max_channel": 176.77239990234375,
+      "panel_mean_rgb": [
+        209.95643615722656, 233.60830688476562, 154.56512451171875
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-wifi-graffiti-native-baseline-batch-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.1504669189453,
+      "panel_mean_rgb": [
+        214.65383911132812, 234.38453674316406, 156.88308715820312
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-wifi-graffiti-native-baseline-split-a.jpg",
+      "lamp_region_max_channel": 254.0,
+      "lamp_region_mean_max_channel": 177.0094451904297,
+      "panel_mean_rgb": [
+        211.1593017578125, 233.85374450683594, 154.09449768066406
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-wifi-graffiti-native-baseline-split-b.jpg",
+      "lamp_region_max_channel": 254.0,
+      "lamp_region_mean_max_channel": 176.86306762695312,
+      "panel_mean_rgb": [
+        210.15924072265625, 233.59532165527344, 153.88082885742188
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-wifi-raw-brightness8-native-mode-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-slot-matrix-20261016T045748Z-wifi-raw-brightness8-native-mode-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-bare-ble-activation-control-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-bare-ble-activation-control-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-batch-ble-commit-after-wifi-upload-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-batch-ble-commit-after-wifi-upload-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-batch-source-reset-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 217.26953125,
+      "panel_mean_rgb": [
+        70.59968566894531, 230.6954345703125, 243.666259765625
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-batch-source-reset-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 204.24209594726562,
+      "panel_mean_rgb": [
+        172.3077850341797, 216.86903381347656, 212.28611755371094
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-batch-wifi-upload-only-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 201.24749755859375,
+      "panel_mean_rgb": [165.25096130371094, 226.10726928710938, 179.439453125],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-batch-wifi-upload-only-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 197.28851318359375,
+      "panel_mean_rgb": [
+        221.61758422851562, 232.4521484375, 110.97332000732422
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-full-ble-target-positive-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 145.9698486328125,
+      "panel_mean_rgb": [
+        141.65921020507812, 165.48037719726562, 135.2263641357422
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-full-ble-target-positive-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 154.56813049316406,
+      "panel_mean_rgb": [
+        28.403011322021484, 235.78854370117188, 182.4313201904297
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-source-baseline-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 216.79864501953125,
+      "panel_mean_rgb": [
+        75.19373321533203, 230.8626251220703, 243.36463928222656
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-source-baseline-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 204.30799865722656,
+      "panel_mean_rgb": [
+        164.90585327148438, 213.2786102294922, 210.15806579589844
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-split-ble-commit-after-wifi-upload-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-split-ble-commit-after-wifi-upload-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-split-source-reset-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 216.61863708496094,
+      "panel_mean_rgb": [
+        78.28093719482422, 230.83847045898438, 242.02633666992188
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-split-source-reset-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 201.8604736328125,
+      "panel_mean_rgb": [187.478515625, 216.68203735351562, 209.16644287109375],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-split-wifi-upload-only-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 199.57254028320312,
+      "panel_mean_rgb": [
+        187.2738800048828, 228.1815643310547, 157.02394104003906
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-split-wifi-upload-only-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 198.48538208007812,
+      "panel_mean_rgb": [
+        212.9979248046875, 225.8038787841797, 139.6880645751953
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-wifi-activation-only-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 199.80613708496094,
+      "panel_mean_rgb": [
+        167.53453063964844, 224.1044921875, 178.48353576660156
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a3-wifi-activation-only-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 197.42555236816406,
+      "panel_mean_rgb": [
+        222.30117797851562, 231.93692016601562, 104.0260238647461
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-bare-ble-activation-control-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-bare-ble-activation-control-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-batch-ble-commit-after-wifi-upload-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-batch-ble-commit-after-wifi-upload-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-batch-source-reset-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.09750366210938,
+      "panel_mean_rgb": [
+        215.07798767089844, 234.29225158691406, 156.77169799804688
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-batch-source-reset-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.40371704101562,
+      "panel_mean_rgb": [
+        214.1125946044922, 234.84304809570312, 156.75054931640625
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-batch-wifi-upload-only-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.26303100585938,
+      "panel_mean_rgb": [
+        214.48695373535156, 234.539794921875, 158.25961303710938
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-batch-wifi-upload-only-b.jpg",
+      "lamp_region_max_channel": 254.0,
+      "lamp_region_mean_max_channel": 176.8676300048828,
+      "panel_mean_rgb": [
+        208.42678833007812, 233.6999969482422, 153.44107055664062
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-full-ble-target-positive-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 197.7422332763672,
+      "panel_mean_rgb": [
+        1.7635294198989868, 239.6780242919922, 230.73719787597656
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-full-ble-target-positive-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 197.57476806640625,
+      "panel_mean_rgb": [
+        1.6394118070602417, 239.6572723388672, 230.60926818847656
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-source-baseline-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.05120849609375,
+      "panel_mean_rgb": [
+        216.7377166748047, 234.18356323242188, 157.59283447265625
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-source-baseline-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.2027587890625,
+      "panel_mean_rgb": [
+        212.1544647216797, 234.6334228515625, 155.4705810546875
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-split-ble-commit-after-wifi-upload-a.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-split-ble-commit-after-wifi-upload-b.jpg",
+      "lamp_region_max_channel": 0.0,
+      "lamp_region_mean_max_channel": 0.0,
+      "panel_mean_rgb": [0.0, 0.0, 0.0],
+      "camera_dark": true
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-split-source-reset-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.2418670654297,
+      "panel_mean_rgb": [212.2158203125, 234.51681518554688, 155.3572998046875],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-split-source-reset-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.3018035888672,
+      "panel_mean_rgb": [
+        212.54771423339844, 234.83218383789062, 155.3304443359375
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-split-wifi-upload-only-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.1163787841797,
+      "panel_mean_rgb": [
+        216.35885620117188, 234.2783660888672, 158.22079467773438
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-split-wifi-upload-only-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.15904235839844,
+      "panel_mean_rgb": [
+        214.31231689453125, 234.4347381591797, 157.3444366455078
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-wifi-activation-only-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 176.89627075195312,
+      "panel_mean_rgb": [
+        209.890869140625, 233.7299346923828, 153.3054962158203
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-a4-wifi-activation-only-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.01052856445312,
+      "panel_mean_rgb": [
+        211.85321044921875, 234.58543395996094, 156.38931274414062
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-final-white.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 215.43124389648438,
+      "panel_mean_rgb": [
+        249.07470703125, 248.6334991455078, 246.69833374023438
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-restored-original.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 177.04391479492188,
+      "panel_mean_rgb": [
+        211.28408813476562, 234.41671752929688, 156.19024658203125
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-valid-native-raw-brightness8-ble-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 159.4320831298828,
+      "panel_mean_rgb": [
+        157.32571411132812, 175.7844696044922, 156.63525390625
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-valid-native-raw-brightness8-ble-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 164.74510192871094,
+      "panel_mean_rgb": [
+        36.25442886352539, 236.9303436279297, 219.5760498046875
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-valid-native-raw-brightness8-wifi-a.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 144.31375122070312,
+      "panel_mean_rgb": [
+        120.97557067871094, 177.6702117919922, 145.67356872558594
+      ],
+      "camera_dark": false
+    },
+    {
+      "source_filename": "native-stage-transport-20261016T050237Z-valid-native-raw-brightness8-wifi-b.jpg",
+      "lamp_region_max_channel": 255.0,
+      "lamp_region_mean_max_channel": 144.33973693847656,
+      "panel_mean_rgb": [
+        143.31809997558594, 181.91917419433594, 135.62509155273438
+      ],
+      "camera_dark": false
+    }
+  ]
+}
